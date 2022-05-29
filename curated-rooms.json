@@ -1,34 +1,34 @@
-{curatedRooms:[
+{"curatedRooms":[
     {
-      username: 'omnea',
-      roomId: '62915de58ac0472e70cbb296',
+      "username": "omnea",
+      "roomId": "62915de58ac0472e70cbb296"
     },
     {
-      username: 'muratunsal',
-      roomId: '62913d62e7135107c1ecd9be',
+      "username": "muratunsal",
+      "roomId": "62913d62e7135107c1ecd9be"
     },
     {
-      username: 'aujik',
-      roomId: '629062716fc6cf114ebbf2d0',
+      "username": "aujik",
+      "roomId": "629062716fc6cf114ebbf2d0"
     },
     {
-      username: 'nekosarts',
-      roomId: '6290b6126fc6cf114ebbf32d',
+      "username": "nekosarts",
+      "roomId": "6290b6126fc6cf114ebbf32d"
     },
     {
-      username: 'mixer',
-      roomId: '6290c4806fc6cf114ebbf34b',
+      "username": "mixer",
+      "roomId": "6290c4806fc6cf114ebbf34b"
     },
     {
-      username: 'ahmetsaid',
-      roomId: '62900de0b271e1c8e6d9f854',
+      "username": "ahmetsaid",
+      "roomId": "62900de0b271e1c8e6d9f854"
     },
     {
-      username: 'ecemdilankose',
-      roomId: '628f83d198474aad1e06c5a9',
+      "username": "ecemdilankose",
+      "roomId": "628f83d198474aad1e06c5a9"
     },
     {
-      username: 'gozdemu',
-      roomId: '628f7f5598474aad1e06c58b',
-    },
+      "username": "gozdemu",
+      "roomId": "628f7f5598474aad1e06c58b"
+    }
 ]}
